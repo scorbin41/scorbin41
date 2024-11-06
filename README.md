@@ -5,7 +5,7 @@
     <p> Here is a list of the projects I've completed</p>
     <ul>
       <li>Top 10 Christmas Songs</li>
-      <li>Driving Personality Quiz<</li>
+      <li>Driving Personality Quiz</li>
       <li>"Saturn" by SZA</li>
       <li>Children's Story MadLib</li>
       <li>Pandora Website</li>
